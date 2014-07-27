@@ -17,7 +17,7 @@ Non appena fatto il Merge la nuova versione verrà pubblicata online. Il vostro 
 * Matteo G.P. Flora - [@lastknight](http://twitter.com/lastknight)
 * Maurizio De Magnis - [@olistik](http://twitter.com/olistik)
 * Carlo De Micheli - [@carldemic](http://twitter.com/carldemic) *English Domains!*  
-* Elena Falcinettoni - [@@efalcettoni](http://twitter.com/efalcettoni) *English translation*
+* Elena Falcinettoni - [Elena FB](https://www.facebook.com/efalcettoni?fref=ufi) *English translation*
 * Simone D'Amico - [Neku](https://github.com/Neku)
 
 ## Spunti e plagi
