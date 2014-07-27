@@ -9,3 +9,12 @@ end
 map 'http://www.smettidicriticare.com/' do 
   run Rack::File.new('public/italian.html')
 end
+
+map 'http://www.juststopcomplaining.com/' do 
+  run Rack::File.new('public/english.html')
+end
+
+map 'http://juststopcomplaining.com/' do 
+  run Rack::File.new('public/english.html')
+end
+
