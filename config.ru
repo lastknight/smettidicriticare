@@ -3,9 +3,9 @@ use Rack::Static,
 	:root => "public"
 
 map 'http://smettidicriticare.com/' do 
-  run Rack::File.new("public")
+  run Rack::File.new("public/italian.html")
 end
 
 map 'http://www.smettidicriticare.com/' do 
-  run Rack::File.new('public')
+  run Rack::File.new('public/italian.html')
 end
