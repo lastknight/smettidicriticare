@@ -14,6 +14,14 @@ map 'http://www.juststopcomplaining.com/' do
   run Rack::File.new('public/english.html')
 end
 
+map 'http://www.stopcriticism.com/' do 
+  run Rack::File.new('public/english.html')
+end
+
+map 'http://stopcriticism.com/' do 
+  run Rack::File.new('public/english.html')
+end
+
 map 'http://juststopcomplaining.com/' do 
   run Rack::File.new('public/english.html')
 end
